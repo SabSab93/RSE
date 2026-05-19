@@ -1,9 +1,9 @@
 Je suis un développeur web travaillant sur un projet qui n'est pas optimisé selon les critères d'éco-conception. Mon objectif est de réduire l'empreinte environnementale de mon projet tout en maintenant une bonne expérience utilisateur.
 
 ---
-Je souhaite dans un premier temps que tu me fasses un audit sur le code actuel dans un but d'eco conception, l'objectif est d’améliorer la performance, le SEO, l’accessibilité. 
+Je souhaite dans un premier temps que tu me fasses un audit sur le code actuel du projet dans un but d'eco conception, l'objectif est d’améliorer la performance, le SEO et l’accessibilité. 
 
-De me trier ce résultat par ordre rapport impact / effort (quick Win en premiers) et de m’associer chaque point à la référence pouvant être lié aux 115 bonnes pratiques de GREENIT. Exemple "AUDIT17 – RWEB 0032- Favoriser les polices standards". 
+De me trier ce résultat par ordre rapport impact / effort (quick Win en premiers) afin de prioriser les ameliorations à faire. Dans un meme temps, d'associer chaque point remonté à la/les référence(s) pouvant être liée(s) aux 115 bonnes pratiques de GREENIT. Exemple "AUDIT17 – RWEB 0032- Favoriser les polices standards". 
 
 ---
 
@@ -13,10 +13,12 @@ Dans un second temps (à ne pas lancer maintenant) je souhaite que tu crées un 
 - Etape 3 : Faire la modification dans le code pour corriger l'élément audité
 - Etape 4 : Push la correction 
 - Etape 5 : Refaire le même audit que l'étape 2 en récupérant les nouvelles métriques dans le but de comparer les valeurs. 
+- Etape 6 : *(Dans le cas où notre LLM est connecté à notre repo)* Creer une Pull request en affichant le resultat (tableaux et commentaire)
 
 
 L'objectif à la fin de ce skill est de me fournir ces tableaux ci-dessous remplis, de calculer le gain apporté suite à l'amélioration du code et de rédiger un commentaires sur les modifications apportées et les résultats obtenues.
 
+---
 
 Desktop - Audit 17 – RWEB 0032- Favoriser les polices standards.
 | Indicateur | Avant | Après | Gain |
@@ -38,4 +40,8 @@ Mobile - Audit 17 – RWEB 0032- Favoriser les polices standards.
 | LCP (s) |  | |  |
 | CLS |  | |  |
 
-//Commentaire
+- Elements modifiés :
+- Observation des gains :
+- Conclusion :
+
+---
